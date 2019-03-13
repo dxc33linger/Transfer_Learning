@@ -11,9 +11,11 @@
 
 
 ##  Code
-[With Sequential method: keras_transfer_lenet_sequential_dxc.py](https://github.com/dxc33linger/transfer_learning/blob/master/keras_transfer_lenet_sequential_dxc.py)
+[Baseline training](https://github.com/dxc33linger/transfer_learning/blob/master/baseline_accu_keras_dxc.py):baseline_accu_keras_dxc.py
 
-[With Function method: keras_transfer_lenet_funtion_dxc.py](https://github.com/dxc33linger/transfer_learning/blob/master/keras_transfer_lenet_funtion_dxc.py)
+[With Sequential method](https://github.com/dxc33linger/transfer_learning/blob/master/keras_transfer_lenet_sequential_dxc.py): keras_transfer_lenet_sequential_dxc.py
+
+[With Function method](https://github.com/dxc33linger/transfer_learning/blob/master/keras_transfer_lenet_funtion_dxc.py): keras_transfer_lenet_funtion_dxc.py
 
 <img src="https://github.com/dxc33linger/transfer_learning/blob/master/dataset_processing/train_curve_keras_function_lenet_mnist.png" width="500" alt="learning curve"/>
 
