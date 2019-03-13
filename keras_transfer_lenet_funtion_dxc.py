@@ -1,12 +1,13 @@
 from __future__ import print_function
 
-"""03/14/2018"""
-"""xiaocong du"""
-"""lenet + mnist + keras, function model"""
+"""
+Date: 03/14/2018
+Author: XD
+LeNet + MNIST + keras, function model
 
-""" Give list1 and list2,  first train list1, then give percentage 1 and percentage2,
-It will train [list1*percentage1 + list2*percentage2] together, with the last FC layer replaced."""
-"""e.g.: list1 = [0,1,2,3,4], percentage1 = 0.1,
+ Give list1 and list2,  first train list1, then give percentage 1 and percentage2,
+It will train [list1*percentage1 + list2*percentage2] together, with the last FC layer replaced.
+e.g.: list1 = [0,1,2,3,4], percentage1 = 0.1,
 		 list2 = [5,6,7,8,9], percentage2 = 0.9,
 
 		 first training: train ~30K 0 to 4 digits, FC5
