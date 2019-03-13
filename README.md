@@ -22,7 +22,7 @@
 Includes files/code/output related to dataset pre-prosessing.
 
 1. [divide_dataset_dxc.py](https://github.com/dxc33linger/transfer_learning/blob/master/dataset_processing/divide_dataset_dxc.py): to divide dataset into groups
-2. [mnist_analysis_pca_tsne_dsc.py](https://github.com/dxc33linger/transfer_learning/blob/master/dataset_processing/mnist_analysis_pca_tsne_dxc.py): PCA/TSNE dimentionality decrease and visulization 
+2. [mnist_analysis_pca_tsne_dxc.py](https://github.com/dxc33linger/transfer_learning/blob/master/dataset_processing/mnist_analysis_pca_tsne_dxc.py): PCA/TSNE dimentionality reduction and visulization 
 
 <img src="https://github.com/dxc33linger/transfer_learning/blob/master/dataset_processing/Figure_1.png" width="500" alt="3D visualization"/>
 
