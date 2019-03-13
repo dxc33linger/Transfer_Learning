@@ -1,6 +1,6 @@
 
 """
-03/20/2018 XIAOCONG DU
+03/20/2018 XD
 Give list1 and list2,  first train list1, then give percentage 1 and percentage2, it will generate [list1*percentage1 + list2*percentage2] together, with the last FC layer replaced.
 """
 import numpy as np
