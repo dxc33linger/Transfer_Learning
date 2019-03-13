@@ -1,7 +1,7 @@
 from __future__ import print_function
 
 """03/14/2018"""
-"""xiaocong du"""
+"""XD"""
 """lenet + mnist + keras"""
 
 import datetime
