@@ -1,15 +1,13 @@
-# Implement Transfer learning with Keras.
+# Implement Transfer learning with Keras on MNIST.
 
 
 
 ## Required environment
 
-
 1. Python 3.6/2.7
 2. TensorFlow
 3. Keras
-4. conda enviroment: source activate py3
-5. NumPy, SciPy, Matplotlib, etc.
+4. NumPy, SciPy, Matplotlib, etc.
 
 
 ##  Code
