@@ -2,20 +2,22 @@
 
 
 
-## Required enviroment
+## Required environment
 
 
 1. Python 3.6/2.7
 2. TensorFlow
 3. Keras
 4. conda enviroment: source activate py3
-5. numpy, scipy, mayplotlib, etc.
+5. NumPy, Sciy, Matplotlib, etc.
 
 
 ##  Code
-[With Sequential method:](https://github.com/dxc33linger/transfer_learning/blob/master/keras_transfer_lenet_sequential_dxc.py)
-[With Function method:](https://github.com/dxc33linger/transfer_learning/blob/master/keras_transfer_lenet_funtion_dxc.py)
+[With Sequential method: keras_transfer_lenet_sequential_dxc.py](https://github.com/dxc33linger/transfer_learning/blob/master/keras_transfer_lenet_sequential_dxc.py)
 
+[With Function method: keras_transfer_lenet_funtion_dxc.py](https://github.com/dxc33linger/transfer_learning/blob/master/keras_transfer_lenet_funtion_dxc.py)
+
+<img src="https://github.com/dxc33linger/transfer_learning/blob/master/dataset_processing/train_curve_keras_function_lenet_mnist.png" width="500" alt="learning curve"/>
 
 ## Dataset_processing folder
 
