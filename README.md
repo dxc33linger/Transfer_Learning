@@ -11,7 +11,7 @@
 
 
 ##  Code
-[Baseline training](https://github.com/dxc33linger/transfer_learning/blob/master/baseline_accu_keras_dxc.py):baseline_accu_keras_dxc.py
+[Baseline training](https://github.com/dxc33linger/transfer_learning/blob/master/baseline_accu_keras_dxc.py): baseline_accu_keras_dxc.py
 
 [With Sequential method](https://github.com/dxc33linger/transfer_learning/blob/master/keras_transfer_lenet_sequential_dxc.py): keras_transfer_lenet_sequential_dxc.py
 
