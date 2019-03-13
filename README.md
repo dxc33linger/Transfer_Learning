@@ -30,3 +30,9 @@ Includes files/code/output related to dataset pre-prosessing.
 
 <img src="https://github.com/dxc33linger/transfer_learning/blob/master/dataset_processing/Figure_2.png" width="500" alt="2D visualization"/>
 
+
+Reference:
+1. LeCun, Yann. "LeNet-5, convolutional neural networks." URL: http://yann. lecun. com/exdb/lenet 20 (2015).
+2. https://keras.io/
+3. http://blog.csdn.net/u012162613/article/details/45920827
+
