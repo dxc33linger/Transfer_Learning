@@ -9,7 +9,7 @@
 2. TensorFlow
 3. Keras
 4. conda enviroment: source activate py3
-5. NumPy, Sciy, Matplotlib, etc.
+5. NumPy, SciPy, Matplotlib, etc.
 
 
 ##  Code
