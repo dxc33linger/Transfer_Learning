@@ -29,7 +29,7 @@ Includes files/code/output related to dataset pre-prosessing.
 
 
 Reference:
-1. LeCun, Yann. "LeNet-5, convolutional neural networks." URL: http://yann. lecun. com/exdb/lenet 20 (2015).
+1. LeCun, Yann. "LeNet-5, convolutional neural networks." URL: http://yann.lecun.com/exdb/lenet 20 (2015).
 2. https://keras.io/
 
 
