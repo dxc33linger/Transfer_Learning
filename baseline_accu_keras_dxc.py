@@ -1,7 +1,7 @@
 from __future__ import print_function
 
 """03/22/2018"""
-"""xiaocong du"""
+"""XD"""
 """lenet + mnist + keras, function model"""
 
 """ one list training to get baseline accuracy
