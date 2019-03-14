@@ -1,5 +1,5 @@
 '''
-# Xiaocong Du 03/05/2018
+# XD 03/05/2018
 
 # Instructions: Code is used to divide dataset dataset into label_list1 and non-selected label, dataset_image should be the whole dataset image, dataset_label should be the one-hot label. 
 
